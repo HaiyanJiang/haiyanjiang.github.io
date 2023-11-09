@@ -1,12 +1,15 @@
 ## Welcome!
 
-I am currently a Postdoctoral Research Fellow in **Machine Learning Department @ MBZUAI**, working with [Prof. Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en) and [Prof. Huan Xiong](https://scholar.google.com/citations?user=l4hm14MAAAAJ&hl=en). I am broadly interested in statistics, optimization, machine learning, and data science. My current research project focuses on **energy-efficient AI** and **distributed computing**, with a passion on **Spiking Neural Networks (SNNs).**
+I am currently a Postdoctoral Research Fellow in [Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) @ [MBZUAI](https://mbzuai.ac.ae/), working with [Prof. Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en) and [Prof. Huan Xiong](https://scholar.google.com/citations?user=l4hm14MAAAAJ&hl=en), with a focuses on **Spiking Neural Networks (SNNs)**, especially **energy-efficient AI** and **distributed computing**. 
 
-Previously, from July 2020 to July 2022, I was a **Research Scientist** in the Big Data Lab @ [Baidu Research](http://research.baidu.com/), [Baidu Inc.](http://research.baidu.com/) on the project of Machine Learning and Optimization, advised by [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage) and [Prof. Dejing Dou](https://ix.cs.uoregon.edu/~dou/). 
+I am broadly interested in statistics, optimization, machine learning, and data science. 
+
+Previously, from July 2020 to July 2022, I was a **Research Scientist** in the Big Data Lab @ [Baidu Research Beijing](http://research.baidu.com/), [Baidu Inc.](http://research.baidu.com/), advised by [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage) and [Prof. Dejing Dou](https://ix.cs.uoregon.edu/~dou/), working on the project of Machine Learning and Optimization. 
 
 I was also a visiting researcher in [Industrial Engineering and Decision Analytics @ HKUST](https://ieda.ust.hk/eng/index.php) from 2018 to 2019, hosted by [Prof. Fugee TSUNG](https://ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=1) on project of Outlier Detection in Mobile Phones.
 
-Before that, I earned a Ph.D. in Statistics from Nankai University in 2020, under the supervision of [Prof. Changliang Zou](https://scholar.google.com/citations?user=LPwSdmwAAAAJ&hl=en) and [Prof. Zhaojun Wang](http://web.stat.nankai.edu.cn/zjwang/content-english.html).
+
+Before that, I earned a Ph.D. in Statistics from the [School of Statistics and Data Science](http://en.stat.nankai.edu.cn/) of [Nankai University](https://en.nankai.edu.cn/) in 2020, under the supervision of [Prof. Changliang Zou](https://scholar.google.com/citations?user=LPwSdmwAAAAJ&hl=en) and [Prof. Zhaojun Wang](http://web.stat.nankai.edu.cn/zjwang/content-english.html).
 
 
 I obtained my M.S. in Probability and Statistics from Lanzhou University, advised by [Prof. Jianzhou Wang](https://www.must.edu.mo/images/FIE/CV/jzwang.pdf), and my B.S. in Mathematics from School of Mathematics and Statistics of Lanzhou University. 
