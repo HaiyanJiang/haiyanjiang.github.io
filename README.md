@@ -4,7 +4,7 @@ I am currently a Postdoctoral Research Fellow in [Machine Learning Department](h
 
 I am broadly interested in statistics, optimization, machine learning, and data science. 
 
-Previously, from July 2020 to July 2022, I was a **Senior Research Scientist** in the Big Data Lab @ [Baidu Research Beijing](http://research.baidu.com/), [Baidu Inc.](http://research.baidu.com/), advised by [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage) and [Prof. Dejing Dou](https://ix.cs.uoregon.edu/~dou/), working on the project of Machine Learning and Optimization. 
+Previously, from July 2020 to June 2022, I was a **Senior Research Scientist** in the Big Data Lab @ [Baidu Research Beijing](http://research.baidu.com/), [Baidu Inc.](http://research.baidu.com/), advised by [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage) and [Prof. Dejing Dou](https://ix.cs.uoregon.edu/~dou/), working on the project of Machine Learning and Optimization. 
 
 I was also a visiting researcher in [Industrial Engineering and Decision Analytics @ HKUST](https://ieda.ust.hk/eng/index.php) from 2018 to 2019, hosted by [Prof. Fugee TSUNG](https://ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=1) on project of Outlier Detection in Mobile Phones.
 
