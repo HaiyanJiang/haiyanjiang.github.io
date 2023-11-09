@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am currently a Postdoctoral Research Fellow in [Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) @ [MBZUAI](https://mbzuai.ac.ae/), working with [Prof. Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en) and [Prof. Huan Xiong](https://scholar.google.com/citations?user=l4hm14MAAAAJ&hl=en), with a focuses on **Spiking Neural Networks (SNNs)**, especially **energy-efficient AI** and **distributed computing**. 
+I am currently a Postdoctoral Research Fellow in [Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) @ [MBZUAI](https://mbzuai.ac.ae/), working with [Prof. Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en) and [Prof. Huan Xiong](https://scholar.google.com/citations?user=l4hm14MAAAAJ&hl=en), with a focus on **Spiking Neural Networks (SNNs)**, especially **energy-efficient AI** and **distributed computing**. 
 
 I am broadly interested in statistics, optimization, machine learning, and data science. 
 
