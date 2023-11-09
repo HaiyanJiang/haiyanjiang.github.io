@@ -1,11 +1,5 @@
 ## Welcome!
 
-I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
-
-
-
-
-
 I am currently a Postdoctoral Research Fellow in **Machine Learning Department @ MBZUAI**, working with [Prof. Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en) and [Prof. Huan Xiong](https://scholar.google.com/citations?user=l4hm14MAAAAJ&hl=en). I am broadly interested in statistics, optimization, machine learning, and data science. My current research project focuses on **energy-efficient AI** and **distributed computing**, with a passion on **Spiking Neural Networks (SNNs).**
 
 Previously, from July 2020 to July 2022, I was a **Research Scientist** in the Big Data Lab @ [Baidu Research](http://research.baidu.com/), [Baidu Inc.](http://research.baidu.com/) on the project of Machine Learning and Optimization, advised by [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage) and [Prof. Dejing Dou](https://ix.cs.uoregon.edu/~dou/). 
