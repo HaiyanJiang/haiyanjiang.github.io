@@ -20,11 +20,13 @@ tr{
 	width: 1000px;
 	min-height: 1000px;
 	max-height: 999999px; /* prevents font boosting */
-	margin: 56px auto 20px; /* top right bottom left */
+/* 	margin: 56px auto 20px; /* top right bottom left */ */
+	margin: 20px auto 10px; /* Adjusted margin values */   /*I've reduced the top margin from 56px to 20px and the bottom margin from 20px to 10px.*/
 	box-shadow: 0 0 7px rgb(100,100,100);
 	text-align: left;
 	background: #fff;
 	padding: 14px 14px 14px 14px; /* top right bottom left */
+	
 	z-index: 1;
 }
 
@@ -56,7 +58,7 @@ font-weight: 600
 
 .education{
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 13px
+    font-size: 14px
 }
 
 
