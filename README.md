@@ -45,7 +45,7 @@ In [International Conference on Machine Learning (ICML 2023)](https://iclr.cc/Co
 
 ### Preprints
 
-S. Qin, **H. Jiang$^*$**, Y. Wu.
+S. Qin, **H. Jiang+**, Y. Wu.
 High-dimensional Robust feature selection with proper constraints. (2022).
 Submitted to [Journal of Applied Statistics](https://www.tandfonline.com/journals/cjas20).*Ready to revise.*
 
