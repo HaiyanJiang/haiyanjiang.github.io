@@ -11,7 +11,7 @@
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
-<h1 style="padding-left: 0.5em">Haiyan JIANG (she/her) - Research Associate @ NYUAD</h1><hr>
+<h1 style="padding-left: 0.5em">Haiyan JIANG (she/her) - Postdoc Research Associate @ NYUAD</h1><hr>
 <td id="layout-menu">
     <div class="menu-item"><a href="index.html" class="current">Home</a></div>
     <div class="menu-item"><a href="focus.html">Research Focus</a></div>
@@ -28,64 +28,87 @@
 <td id="layout-content">
 
     <h1 style="margin-top: 0em">Research Focus</h1>
-	As we work toward deploying machine learning systems in real-world scenarios, 
-	the primary considerations of reliability, energy efficiency, and security drive our research efforts. 
-	To mitigate potential risks inherent in these systems, our primary focus includes the exploration of two key domains: 
-	Statistical Machine Learning and Spiking Neural Networks (SNNs) for energy-efficient and trustworthy AI. 
-	
-	The former provides fundamental tools for building trustworthy machine learning systems, 
-	while the latter focuses on addressing specific risks of some existing machine learning algorithms, such as energy-efficient AI.<br>
 
-	In Statistical Machine Learning, we focus on the basic robust methodologies 
-	and leverage statistical principles to enhance the reliability of machine learning systems. 
-	In Spiking Neural Networks (SNNs), we develop training algorithms for energy-efficient and trustworthy AI models. 
+	As machine learning systems are increasingly deployed in real-world applications, 
+	concerns about their security, robustness, and privacy have become critical. 
+	To mitigate potential risks associated with these systems, our research focuses on security and privacy in federated learning and machine unlearning.
 	
-	The two domains address fundamental aspects through statistical machine learning 
-	and address specific challenges posed by existing machine learning algorithms, 
-	ensuring the energy-efficiency and reliability of the systems we deploy.
+	The former investigates vulnerabilities in decentralized learning systems such as federated learning, 
+	including backdoor attacks, adversarial threats, and privacy risks, while developing resilient defense mechanisms against malicious attacks.
+	The latter focuses on protecting data privacy by enabling models to selectively forget specific training data upon request, 
+	addressing privacy concerns such as model inversion and data leakage to ensure compliance with privacy regulations.
+
+    <h1 style="margin-top: 0em">Key Research Areas</h1>
+	<li><p>Federated Learning Security</p></li>
+	Investigating security threats in decentralized learning systems such as federated learning, 
+	including backdoor attacks and privacy threats, while developing robust countermeasures to enhance model security.
+
+	<li><p>Machine Unlearning & Data Privacy</p></li>
+	Designing algorithms that enable models to forget specific training data, 
+	preventing model inversion attacks and data reconstruction, and ensuring privacy-preserving AI.
+
+    Our research aims to mitigate potential security and privacy risks in modern AI systems, 
+	ensuring they remain resilient, privacy-preserving, and ethically responsible in real-world deployments.
+
 
     <div>
-        <h2><hr><a name="testing"></a>Statistical Machine Learning</h2>
-        In Statistical Machine Learning, we focus on the basic robust methodologies 
-	    and leverage statistical principles to enhance the reliability of machine learning systems. 
+        <h2><hr><a name="testing"></a>Federated Learning Security</h2>
+
+	    Federated learning (FL) enables multiple participants to collaboratively train models without sharing their local private data, 
+	    but it also introduces unique security and privacy vulnerabilities, including privacy risks and attacks. Our work in this area includes:
+	    
     	</br></br>
         <ul>
-	<li><p>high-dimensional statistics</p></li>
-        <li><p>convex optimization</p></li>
-        <li><p>numerical methods</p></li>
-	<li><p>change-point detection in time series.</p></li>
+	<li><p>Backdoor Attacks & Defenses in FL</p></li>
+		Investigating how adversaries can stealthily implant hidden backdoors in FL models, 
+		and developing effective detection and mitigation defense techniques.
+        <li><p>Model Inversion Attacks</p></li>
+		Investigating how adversaries can reconstruct sensitive training data from shared model updates (weights or gradients), 
+		and developing effective defense techniques to prevent the attackers from inferring private attributes of individual users, 
+		even with encrypted or aggregated updates.
+        <li><p>Data Leakage from Gradients</p></li>
+		Examining how unencrypted gradient updates can expose sensitive information about underlying training data, 
+		and designing robust mitigation strategies to prevent gradient-based data reconstruction attacks, 
+		even in the presence of differential privacy techniques.
+	<li><p>Secure Aggregation & Privacy Protection</p></li>
+		Strengthening FL protocols to prevent model inversion attacks, data leakage, and malicious updates.		
         </ul></br>
     </div>
 
     <div>
-        <h2><hr><a name="tml"></a>Deep Learning Algorithms</h2>
-	
-        At the current stage, we mainly focus on developing efficient training algorigthms for Spiking Neural Networks (SNNs). 
-	    And at the same time, we focus on specific tasks to make these training algorithms more reliable and safe.
-	    So we first need to develop the training algorithms for SNNs, 
-	    then we will consider maiking these training algorithms more reliable and safe.
+        <h2><hr><a name="tml"></a>Machine Unlearning & Data Privacy</h2>
 
-	<h3>SNN Training Algorithms</h3>
-	    Recently, brain-inspired spiking neuron networks (SNNs) have attracted widespread research interest 
-	    because of their event-driven and energy-efficient characteristics. 
-	    Still, it is difficult to efficiently train deep SNNs due to the non-differentiability of its activation function, 
-	    which disables the typically used gradient descent approaches for traditional artificial neural networks (ANNs).
-	    So we first need to develop the training algorithms for SNNs, including 
+	As AI models continuously learn from vast amounts of data, 
+	    the ability to selectively forget specific data's influence on trained models upon request 
+	    is essential for privacy compliance (e.g., GDPR's "right to be forgotten"). 
+	    However, even when only the trained model is accessible such as in Machine Learning-as-a-Service (MLaaS) settings, 
+	    model inversion attacks can exploit pre-trained models to reconstruct original ensitive training data, 
+	    raising concerns about privacy leakage in applications like facial recognition, medical diagnostics, and intelligent virtual assistants.
+	    
+	    Our research focuses on the following key areas:
+
+	<h3>Machine Unlearning</h3>
 	    <ul>
-	        <li><p>directly training SNNs; </p></li>
+	        <li><p>Efficient Machine Unlearning Algorithms; </p></li>
+		    Developing methods that enable models to selectively remove the influence of specific training data 
+		    without requiring complete retraining the model, 
+		    maintaining model performance while ensuring compliance with privacy regulations.
+
 		<li><p> ANN-SNN conversion methods. </p></li>
 	    </ul></br>
 	    
 
-        <h3>Defending against Adversarial Attacks</h3>
-        
-        Deep neural networks are susceptible to adversarial examples that are generated 
-	    by changing natural inputs with malicious perturbation, so do SNNs. 
-	    Those examples are imperceptible to human eyes but can fool deep models to make wrong predictions with high confidence. 
-	    Thus, to make deep neural networks (especially SNNs) more reliable, we focus on the following two topics 
+        <h3>Data Privacy</h3>
         <ul>
-            <li><p>Detecting adversarial attacks for SNNs (i.e., adversarial attack detection); </p></li>
-            <li><p>Training a robust model against future adversarial attacks (i.e., adversarial training).</p></li>
+            <li><p>Unlearning Inversion Attacks; </p></li>
+		Investigating how adversaries can leverage model inversion and gradient inversion techniques 
+		to infer feature and label information of an unlearned sample by analyzing changes 
+		between the original and unlearned models.
+            <li><p>Defending Against Inversion Attacks.</p></li>
+		Designing robust defenses to prevent attackers from reconstructing sensitive training data, 
+		mitigating risks associated with model inversion and gradient inversion attacks 
+		in both white-box and black-box access scenarios.
+
         </ul></br>
 
     </div>
